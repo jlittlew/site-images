@@ -7,7 +7,7 @@ Web addresses (each one serves the whole `public/` folder):
 - Activism Tools: `https://files.furtherfwd.com/activismtools/...`
 
 - `public/coldhandsgear/icons/` – category icons used as listing logos (512 px squares, original artwork)
-- `public/coldhandsgear/photos/` – maker photos used with written permission (credit line on each listing)
+- `public/coldhandsgear/photos/` – maker photos used with written permission (credit line on each listing). Named `<listing-slug>-<n>.jpg`; `-1` is the 16:9 cover (1280x720), the rest are max 1600 px. EXIF stripped. Where each came from: `photo-sources.csv`.
 - `public/activismtools/logos/` – square logo tiles for activismtools.org (new and fixed logos only; older logos stay on Directify)
 - `public/activismtools/files/` – downloads for activismtools.org visitors (PDF checklists, templates)
 
