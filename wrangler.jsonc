@@ -1,0 +1,6 @@
+{
+  // Static image library served by Cloudflare (Workers static assets).
+  "name": "site-images",
+  "compatibility_date": "2025-11-01",
+  "assets": { "directory": "./public" }
+}
